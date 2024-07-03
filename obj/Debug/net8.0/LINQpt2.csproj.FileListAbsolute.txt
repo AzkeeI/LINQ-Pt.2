@@ -1,0 +1,14 @@
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\bin\Debug\net8.0\LINQpt2.exe
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\bin\Debug\net8.0\LINQpt2.deps.json
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\bin\Debug\net8.0\LINQpt2.runtimeconfig.json
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\bin\Debug\net8.0\LINQpt2.dll
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\bin\Debug\net8.0\LINQpt2.pdb
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\LINQpt2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\LINQpt2.AssemblyInfoInputs.cache
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\LINQpt2.AssemblyInfo.cs
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\LINQpt2.csproj.CoreCompileInputs.cache
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\LINQpt2.dll
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\refint\LINQpt2.dll
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\LINQpt2.pdb
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\LINQpt2.genruntimeconfig.cache
+c:\Users\julia\OneDrive\Documents\POO2\LINQ2\LINQpt2\obj\Debug\net8.0\ref\LINQpt2.dll
